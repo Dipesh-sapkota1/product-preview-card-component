@@ -64,7 +64,7 @@
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    padding: 1rem 1rem;
+    padding: 0.65rem 1rem;
     font-size: 0.9rem;
     color: var(--neutral-color);
     background-color: var(--primary-color);
